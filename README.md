@@ -67,7 +67,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Mindaugas: [Github](https://github.com/Mndde81)
+Mindaugas: [Github](https://github.com/Mnde81)
 
 ## ⚠️ License
 
